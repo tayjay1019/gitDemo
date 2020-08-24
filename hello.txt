@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 Hello World, git is fun!
-=======
 Hello World!
 Hola Mundo!
->>>>>>> spansih
